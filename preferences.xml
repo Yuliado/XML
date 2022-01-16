@@ -1,3 +1,3 @@
-<favourite film>King lion</favourite film>
-<favourite season>Spring<favourite season/>
-<favourite dish>Cheese brie</favourite dish>
+<main><favourite_film>King lion</favourite_film>,
+<favourite_season>Spring</favourite_season>,
+<favourite_dish>Cheese brie</favourite_dish></main>
