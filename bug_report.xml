@@ -1,3 +1,17 @@
-<summary> Inconsistency between the error message shown in the application and in the documentation </summary>,
-<severity> major </severity>,
-<priority> low </priority>
+<main>
+	<summary> Application crashes upon clicking the SAVE button while creating a new user. </summary>
+	<steps_to_reproduce>
+		<step1>Login into the Application.</step1>
+		<step2>Navigate to the Users Menu -> New User</step2>
+		<step3> Filled out all the user information fields.</step3>
+		<step4> Clicked on the ‘Save’ button.</step4>
+		<step5>Seen an error page “ORA1090 Exception: 'Insert values Error…</step5>
+		<step6>See the attached logs for more information.</step6>
+		<step7>Also see the attached screenshot of the error page.</step7>
+	</steps_to_reproduce>
+	<expected_Result>On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully</expected_Result>
+	<environment>Windows 10 Enterprise 2016 LSTB</environment>
+	<severity> major </severity>
+	<priority> low </priority>
+	<attachments>Screenshot</attachments>
+</main>
