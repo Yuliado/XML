@@ -1,17 +1,10 @@
 <main>
-	<skill1> Git </skill1>,
- 
-	<skill2> Postman </skill2>,
- 
-	<skill3> Charles </skill3>,
- 
-	<skill4> SQL </skill4>,
-  
-	<skill5> Jmeter </skill5>,
-   
-	<skill6> Mobile Testing </skill6>,
-    
-	<skill7> Bag Reports </skill7>,
-   
-	<skill8> Checklists </skill8>
+	<skill1> Git </skill1>
+	<skill2> Postman </skill2>
+	<skill3> Charles </skill3>
+	<skill4> SQL </skill4>
+	<skill5> Jmeter </skill5>
+	<skill6> Mobile Testing </skill6> 
+	<skill7> Bag Reports </skill7>
+   	<skill8> Checklists </skill8>
 </main>
